@@ -23,6 +23,7 @@ export default function WeatherApp() {
             href="https://github.com/Onlygirlintown/my-app"
             target="_blank"
             className="source-link"
+            rel="noreferrer"
           >
             Open Source Code by Alexandra Chitacapa
           </a>

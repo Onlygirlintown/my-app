@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./styles.css";
 import Form from "./Form";
 import CurrentDay from "./CurrentDay";
 import WeekForecast from "./WeekForecast";
@@ -23,6 +23,7 @@ export default function WeatherApp() {
             href="https://github.com/Onlygirlintown/My-weather-project"
             target="_blank"
             className="source-link"
+            rel="noreferrer"
           >
             Open Source Code by Alexandra Chitacapa
           </a>
