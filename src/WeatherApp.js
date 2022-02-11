@@ -20,7 +20,7 @@ export default function WeatherApp() {
         </div>
         <div className="codelink">
           <a
-            href="https://github.com/Onlygirlintown/My-weather-project"
+            href="https://github.com/Onlygirlintown/my-app"
             target="_blank"
             className="source-link"
           >
