@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./styles.css";
 import Form from "./Form";
 import CurrentDay from "./CurrentDay";
 import WeekForecast from "./WeekForecast";

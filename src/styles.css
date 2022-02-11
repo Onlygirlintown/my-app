@@ -1,0 +1,98 @@
+.container {
+  padding: 10px;
+  display: block;
+  margin-top: 6%;
+  border-radius: 30px;
+  color: #ffad60;
+  background: #efefbb;
+  font-family: "Karla", sans-serif;
+  box-shadow: 12px 12px 2px 1px rgb(253, 242, 227);
+}
+.current-day {
+  text-align: center;
+}
+.current-forecast {
+  display: block;
+}
+h1 {
+  background: transparent;
+  border: none;
+  color: #d9534f;
+  font-size: 90px;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: #ffad60 1px 0 10px;
+}
+.city-input {
+  background: transparent;
+  border: none;
+  color: #ffad60;
+  font-size: 10px;
+  text-align: center;
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.city-submit-button {
+  background: transparent;
+  font-size: 8px;
+  border-radius: 50%;
+  color: #ffad60;
+  border-color: #ffad60;
+}
+.city-input:hover {
+  cursor: pointer;
+  border: none;
+}
+.current-day-temperature {
+  font-weight: 800;
+  font-size: 37px;
+  display: block;
+  margin: 0 auto;
+}
+.current-weekday {
+  font-weight: 800;
+  font-size: 30px;
+  color: #d9534f;
+}
+.days {
+  font-weight: 800;
+  line-height: 3;
+  font-size: 15px;
+  color: #d9534f;
+}
+.current-weekday-stats {
+  line-height: 1;
+}
+.degrees {
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffad60;
+}
+.location-retrieval-element {
+  border-radius: 50%;
+  background: transparent;
+  font-size: 8px;
+  color: #ffad60;
+  border-color: #ffad60;
+}
+.source-link {
+  text-decoration: none;
+  color: #ffad60;
+  font-size: 10px;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  display: block;
+  margin: 0 auto;
+}
+.degree-units {
+  text-align: center;
+}
+.mini-header {
+  text-align: center;
+}
+.codelink {
+  text-align: center;
+}
